@@ -1,13 +1,12 @@
-# Domina Ruby: Scripting
+# Domina Ruby: Scripting, archivos, clases, módulos y métodos
 
-Este es el repositorio del curso de LinkedIn Learning `[nombre del curso]`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
+Este es el repositorio del curso de LinkedIn Learning `Domina Ruby: Scripting, archivos, clases, módulos y métodos`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
 
 ![Nombre completo del curso][lil-thumbnail-url] 
 
 Consulta el archivo Readme en la rama main para obtener instrucciones e información actualizadas.
 
-
-DESCRIPCIÓN DEL CURSO
+Avanza en tu dominio de Ruby con este curso especializado en scripting, manejo de archivos, clases, módulos y métodos. Diseñado para programadores que desean llevar sus habilidades al siguiente nivel, este curso te proporcionará las herramientas necesarias para desarrollar aplicaciones prácticas y eficientes en Ruby. Aprende a ejecutar comandos de shell, manipular archivos, y dominar las técnicas avanzadas de programación orientada a objetos que te permitirán destacarte en el mundo del desarrollo de software.
 
 ## Instrucciones
 
@@ -29,10 +28,10 @@ Las ramas están estructuradas para corresponder a los vídeos del curso. La con
 
 **Carla Urrea Stabile**
 
-Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.com/learning/instructors/).
+Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.com/learning/instructors/carla-urrea-stabile).
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
-[lil-course-url]: https://www.linkedin.com
-[lil-thumbnail-url]: https:
+[lil-course-url]: https://www.linkedin.com/learning/domina-ruby-scripting-archivos-clases-modulos-y-metodos
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4E0DAQEuABME3oHJ8w/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1727686886398?e=2147483647&v=beta&t=yzaZh5iXv2UOqLcfGiKhbv7BQq0cNl4770p9S5yG9Nc
 
 [1]: # (End of ES-Instruction ###############################################################################################)
